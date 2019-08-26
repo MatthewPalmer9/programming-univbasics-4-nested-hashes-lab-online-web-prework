@@ -17,7 +17,7 @@ def hopper
      }
 programmer_hash[:grace_hopper][:known_for] = "COBOL"
 programmer_hash[:grace_hopper][:languages] = ["COBOL", "FORTRAN"]
-programmer_hash
+programmer_hash[:grace_hopper]
 
 end
 
